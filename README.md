@@ -1,7 +1,25 @@
-- 👋 Hi, I’m @predMoT
-- 👀 I’m interested in Mathmatics and Computer Science
-- 🌱 I’m currently learning C and Python
-<!---
-predMoT/predMoT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Hi, I'm Müslüm
+
+Final-year Mathematics student transitioning into Data Science & Machine Learning.
+
+I focus on combining strong mathematical foundations with practical programming to solve real-world analytical problems.
+
+### 🔍 Current Focus
+- Data analysis and visualization with Python
+- Implementing fundamental Machine Learning algorithms
+- Strengthening statistical modeling skills
+
+### 🛠 Tech Stack
+- Python (NumPy, Pandas, Scikit-learn)
+- C++ (academic experience)
+- Currently learning C
+
+### 📌 Projects
+- Building hands-on projects focused on data understanding and ML fundamentals
+- Exploring real-world datasets and analytical workflows
+
+### 🎯 Goal
+Seeking internship / entry-level roles in Data Science or Data Analysis where I can apply theory to practical problems.
+
+### 📫 Contact
+- LinkedIn: https://www.linkedin.com/in/muslum-tuncel-08mt/
